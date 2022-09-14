@@ -14,4 +14,4 @@ function getGrade(s1, s2, s3) {
     }
 }
 
-console.log(getGrade(91, 95, 93));
+console.log(getGrade(91, 95, 93)); //A
